@@ -2,9 +2,6 @@
 
 🎓 **Desarrollador Web Full-Stack** apasionado por la tecnología y el aprendizaje continuo.
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LAMMedina&show_icons=true&theme=radical)
-
-
 🔭 **Actualmente trabajando en:**
 - Proyectos de código abierto 🚀
 - Mejorar mis habilidades con [Astro](https://astro.build) y [Nuxt.js](https://nuxt.com).
