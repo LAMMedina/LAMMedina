@@ -11,7 +11,7 @@
 - React | Vue | Nuxt | Astro | TypeScript | JavaScript | NextJs | NodeJs | Express.js
 
 🌟 **Proyectos Destacados:**
-- [Mi Proyecto Cool]([https://github.com/tuusuario/proyecto-cool](https://github.com/LAMMedina/proyecto-sincronizacion)) - Este proyecto facilita la sincronización automática de datos entre Monday.com y Mailchimp. La versión inicial permite sincronizar los campos principales: EMAIL, NAME, PHONE, FDATE y STATUS. Los datos son extraídos desde la API de Monday.com y enviados a Mailchimp mediante la Mailchimp Marketing API..
+- [Proyecto-Sincronización]([https://github.com/tuusuario/proyecto-cool](https://github.com/LAMMedina/proyecto-sincronizacion)) - Este proyecto facilita la sincronización automática de datos entre Monday.com y Mailchimp. La versión inicial permite sincronizar los campos principales: EMAIL, NAME, PHONE, FDATE y STATUS. Los datos son extraídos desde la API de Monday.com y enviados a Mailchimp mediante la Mailchimp Marketing API..
 
 📫 **Contacto:**
 - [LinkedIn]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/luis-mujica-640831274/))
