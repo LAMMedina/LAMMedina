@@ -8,7 +8,7 @@
 
 💻 **Habilidades:**
 - JavaScript | Node.js
-- React | Vue | Nuxt | Astro | TypeScript | JavaScript | NextJs | NodeJs | Express.js
+- React | Vue | Nuxt | Astro | TypeScript | NextJs | Express.js
 
 🌟 **Proyectos Destacados:**
 - [Proyecto-Sincronización]([https://github.com/tuusuario/proyecto-cool](https://github.com/LAMMedina/proyecto-sincronizacion)) - Este proyecto facilita la sincronización automática de datos entre Monday.com y Mailchimp. La versión inicial permite sincronizar los campos principales: EMAIL, NAME, PHONE, FDATE y STATUS. Los datos son extraídos desde la API de Monday.com y enviados a Mailchimp mediante la Mailchimp Marketing API..
